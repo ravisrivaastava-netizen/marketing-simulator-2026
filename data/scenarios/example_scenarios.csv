@@ -1,0 +1,7 @@
+name,revenue,cogs_percent,marketing_spend,trade_spend,description
+Base Case,1000000,0.45,50000,30000,Current state baseline
+A&P Increase,1000000,0.45,75000,30000,25% increase in advertising budget
+Price Increase,1050000,0.45,50000,30000,5% price increase
+Premium Mix,1000000,0.42,50000,30000,Improved product mix margin
+New Product,1100000,0.46,60000,40000,New product launch scenario
+Cost Reduction,1000000,0.40,50000,30000,COGS reduction initiative
